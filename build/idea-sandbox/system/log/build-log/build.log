@@ -1,0 +1,723 @@
+2022-01-03 00:07:23,447 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2022-01-03 00:07:23,447 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Users/dennisanderson/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.3.3/3c2013f1573a11e93fff08e8ba758ddf4ed39717/ideaIC-2020.3.3/plugins/java/lib/jps-launcher.jar
+2022-01-03 00:07:23,819 [    372]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 313 ms
+2022-01-03 00:07:24,013 [    566]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/dennisanderson/IdeaProjects/untitled1, global options path = /Users/dennisanderson/IdeaProjects/progressbar/build/idea-sandbox/config/options
+2022-01-03 00:07:24,220 [    773]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 207 ms
+2022-01-03 00:07:24,220 [    773]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2022-01-03 00:07:24,328 [    881]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2022-01-03 00:07:24,334 [    887]   INFO - tellij.util.io.FileChannelUtil - uninterruptible FileChannels will be used for indexes
+2022-01-03 00:07:24,511 [   1064]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:true; isMake:false parallel compilation:false
+2022-01-03 00:07:24,517 [   1070]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JVM: true
+2022-01-03 00:07:24,517 [   1070]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JS: true
+2022-01-03 00:07:24,524 [   1077]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2022-01-03 00:07:24,524 [   1077]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 3811c6f4
+2022-01-03 00:07:24,537 [   1090]   INFO - s.index.CompilerReferenceIndex - backward reference index version doesn't exist
+2022-01-03 00:07:24,619 [   1172]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 25 ms
+2022-01-03 00:07:25,561 [   2114]   INFO - kotlin.jps.build.KotlinBuilder - KotlinTargetsIndex created in 838 ms
+2022-01-03 00:07:25,575 [   2128]   INFO - kotlin.jps.build.KotlinBuilder - Total Kotlin global compile context initialization time: 854 ms
+2022-01-03 00:07:26,163 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2022-01-03 00:07:26,163 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Users/dennisanderson/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.3.3/3c2013f1573a11e93fff08e8ba758ddf4ed39717/ideaIC-2020.3.3/plugins/java/lib/jps-launcher.jar
+2022-01-03 00:07:26,479 [    316]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 265 ms
+2022-01-03 00:07:26,625 [    462]   INFO -    #com.intellij.jna.JnaLoader - JNA library (64-bit) loaded in 141 ms
+2022-01-03 00:07:26,709 [    546]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/dennisanderson/IdeaProjects/untitled1, global options path = /Users/dennisanderson/IdeaProjects/progressbar/build/idea-sandbox/config/options
+2022-01-03 00:07:26,888 [    725]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 178 ms
+2022-01-03 00:07:26,888 [    725]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2022-01-03 00:07:26,968 [    805]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2022-01-03 00:07:26,973 [    810]   INFO - tellij.util.io.FileChannelUtil - uninterruptible FileChannels will be used for indexes
+2022-01-03 00:07:27,114 [    951]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 965 ms
+2022-01-03 18:39:39,910 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2022-01-03 18:39:39,910 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Users/dennisanderson/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.3.3/3c2013f1573a11e93fff08e8ba758ddf4ed39717/ideaIC-2020.3.3/plugins/java/lib/jps-launcher.jar
+2022-01-03 18:39:41,056 [   1146]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 1066 ms
+2022-01-03 18:39:41,274 [   1364]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/dennisanderson/IdeaProjects/untitled, global options path = /Users/dennisanderson/IdeaProjects/progressbar/build/idea-sandbox/config/options
+2022-01-03 18:39:41,521 [   1611]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 248 ms
+2022-01-03 18:39:41,522 [   1612]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2022-01-03 18:39:41,635 [   1725]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2022-01-03 18:39:41,641 [   1731]   INFO - tellij.util.io.FileChannelUtil - uninterruptible FileChannels will be used for indexes
+2022-01-03 18:39:41,812 [   1902]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:true; isMake:false parallel compilation:false
+2022-01-03 18:39:41,815 [   1905]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JVM: true
+2022-01-03 18:39:41,815 [   1905]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JS: true
+2022-01-03 18:39:41,821 [   1911]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2022-01-03 18:39:41,821 [   1911]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started b8811c57
+2022-01-03 18:39:41,832 [   1922]   INFO - s.index.CompilerReferenceIndex - backward reference index version doesn't exist
+2022-01-03 18:39:41,912 [   2002]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 18 ms
+2022-01-03 18:39:42,781 [   2871]   INFO - kotlin.jps.build.KotlinBuilder - KotlinTargetsIndex created in 774 ms
+2022-01-03 18:39:42,794 [   2884]   INFO - kotlin.jps.build.KotlinBuilder - Total Kotlin global compile context initialization time: 790 ms
+2022-01-03 18:39:43,406 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2022-01-03 18:39:43,406 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Users/dennisanderson/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.3.3/3c2013f1573a11e93fff08e8ba758ddf4ed39717/ideaIC-2020.3.3/plugins/java/lib/jps-launcher.jar
+2022-01-03 18:39:43,676 [    270]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 215 ms
+2022-01-03 18:39:43,871 [    465]   INFO -    #com.intellij.jna.JnaLoader - JNA library (64-bit) loaded in 191 ms
+2022-01-03 18:39:43,912 [    506]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/dennisanderson/IdeaProjects/untitled, global options path = /Users/dennisanderson/IdeaProjects/progressbar/build/idea-sandbox/config/options
+2022-01-03 18:39:44,087 [    681]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 175 ms
+2022-01-03 18:39:44,088 [    682]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2022-01-03 18:39:44,155 [    749]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2022-01-03 18:39:44,160 [    754]   INFO - tellij.util.io.FileChannelUtil - uninterruptible FileChannels will be used for indexes
+2022-01-03 18:39:44,257 [    851]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 865 ms
+2022-01-03 18:40:05,419 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2022-01-03 18:40:05,419 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Users/dennisanderson/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.3.3/3c2013f1573a11e93fff08e8ba758ddf4ed39717/ideaIC-2020.3.3/plugins/java/lib/jps-launcher.jar
+2022-01-03 18:40:05,757 [    338]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 275 ms
+2022-01-03 18:40:05,923 [    504]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/dennisanderson/IdeaProjects/untitled, global options path = /Users/dennisanderson/IdeaProjects/progressbar/build/idea-sandbox/config/options
+2022-01-03 18:40:06,133 [    714]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 209 ms
+2022-01-03 18:40:06,133 [    714]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2022-01-03 18:40:06,218 [    799]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2022-01-03 18:40:06,223 [    804]   INFO - tellij.util.io.FileChannelUtil - uninterruptible FileChannels will be used for indexes
+2022-01-03 18:40:07,043 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2022-01-03 18:40:07,043 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Users/dennisanderson/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.3.3/3c2013f1573a11e93fff08e8ba758ddf4ed39717/ideaIC-2020.3.3/plugins/java/lib/jps-launcher.jar
+2022-01-03 18:40:07,417 [    374]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 244 ms
+2022-01-03 18:40:07,831 [    788]   INFO -    #com.intellij.jna.JnaLoader - JNA library (64-bit) loaded in 410 ms
+2022-01-03 18:40:07,885 [    842]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/dennisanderson/IdeaProjects/untitled, global options path = /Users/dennisanderson/IdeaProjects/progressbar/build/idea-sandbox/config/options
+2022-01-03 18:40:08,101 [   1058]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 216 ms
+2022-01-03 18:40:08,101 [   1058]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2022-01-03 18:40:08,194 [   1151]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2022-01-03 18:40:08,201 [   1158]   INFO - tellij.util.io.FileChannelUtil - uninterruptible FileChannels will be used for indexes
+2022-01-03 18:40:08,313 [   1270]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1290 ms
+2022-01-03 18:45:28,755 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2022-01-03 18:45:28,756 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Users/dennisanderson/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.3.3/3c2013f1573a11e93fff08e8ba758ddf4ed39717/ideaIC-2020.3.3/plugins/java/lib/jps-launcher.jar
+2022-01-03 18:45:29,089 [    334]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 273 ms
+2022-01-03 18:45:29,242 [    487]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/dennisanderson/IdeaProjects/untitled, global options path = /Users/dennisanderson/IdeaProjects/progressbar/build/idea-sandbox/config/options
+2022-01-03 18:45:29,455 [    700]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 212 ms
+2022-01-03 18:45:29,455 [    700]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2022-01-03 18:45:29,574 [    819]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2022-01-03 18:45:29,580 [    825]   INFO - tellij.util.io.FileChannelUtil - uninterruptible FileChannels will be used for indexes
+2022-01-03 18:45:30,292 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2022-01-03 18:45:30,293 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Users/dennisanderson/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.3.3/3c2013f1573a11e93fff08e8ba758ddf4ed39717/ideaIC-2020.3.3/plugins/java/lib/jps-launcher.jar
+2022-01-03 18:45:30,590 [    298]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 236 ms
+2022-01-03 18:45:30,702 [    410]   INFO -    #com.intellij.jna.JnaLoader - JNA library (64-bit) loaded in 108 ms
+2022-01-03 18:45:30,747 [    455]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/dennisanderson/IdeaProjects/untitled, global options path = /Users/dennisanderson/IdeaProjects/progressbar/build/idea-sandbox/config/options
+2022-01-03 18:45:30,916 [    624]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 169 ms
+2022-01-03 18:45:30,916 [    624]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2022-01-03 18:45:30,983 [    691]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2022-01-03 18:45:30,988 [    696]   INFO - tellij.util.io.FileChannelUtil - uninterruptible FileChannels will be used for indexes
+2022-01-03 18:45:31,093 [    801]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 821 ms
+2022-01-03 18:45:54,525 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2022-01-03 18:45:54,526 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Users/dennisanderson/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.3.3/3c2013f1573a11e93fff08e8ba758ddf4ed39717/ideaIC-2020.3.3/plugins/java/lib/jps-launcher.jar
+2022-01-03 18:45:54,875 [    350]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 280 ms
+2022-01-03 18:45:55,102 [    577]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/dennisanderson/IdeaProjects/untitled, global options path = /Users/dennisanderson/IdeaProjects/progressbar/build/idea-sandbox/config/options
+2022-01-03 18:45:55,432 [    907]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 329 ms
+2022-01-03 18:45:55,432 [    907]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2022-01-03 18:45:55,555 [   1030]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2022-01-03 18:45:55,563 [   1038]   INFO - tellij.util.io.FileChannelUtil - uninterruptible FileChannels will be used for indexes
+2022-01-03 18:45:56,644 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2022-01-03 18:45:56,645 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Users/dennisanderson/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.3.3/3c2013f1573a11e93fff08e8ba758ddf4ed39717/ideaIC-2020.3.3/plugins/java/lib/jps-launcher.jar
+2022-01-03 18:45:57,056 [    412]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 322 ms
+2022-01-03 18:45:57,254 [    610]   INFO -    #com.intellij.jna.JnaLoader - JNA library (64-bit) loaded in 190 ms
+2022-01-03 18:45:57,310 [    666]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/dennisanderson/IdeaProjects/untitled, global options path = /Users/dennisanderson/IdeaProjects/progressbar/build/idea-sandbox/config/options
+2022-01-03 18:45:57,646 [   1002]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 336 ms
+2022-01-03 18:45:57,646 [   1002]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2022-01-03 18:45:57,811 [   1167]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2022-01-03 18:45:57,821 [   1177]   INFO - tellij.util.io.FileChannelUtil - uninterruptible FileChannels will be used for indexes
+2022-01-03 18:45:57,978 [   1334]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1362 ms
+2022-01-03 18:46:11,637 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2022-01-03 18:46:11,638 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Users/dennisanderson/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.3.3/3c2013f1573a11e93fff08e8ba758ddf4ed39717/ideaIC-2020.3.3/plugins/java/lib/jps-launcher.jar
+2022-01-03 18:46:12,064 [    427]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 332 ms
+2022-01-03 18:46:12,309 [    672]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/dennisanderson/IdeaProjects/untitled, global options path = /Users/dennisanderson/IdeaProjects/progressbar/build/idea-sandbox/config/options
+2022-01-03 18:46:12,557 [    920]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 247 ms
+2022-01-03 18:46:12,557 [    920]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2022-01-03 18:46:12,676 [   1039]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2022-01-03 18:46:12,683 [   1046]   INFO - tellij.util.io.FileChannelUtil - uninterruptible FileChannels will be used for indexes
+2022-01-03 18:46:13,955 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2022-01-03 18:46:13,956 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Users/dennisanderson/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.3.3/3c2013f1573a11e93fff08e8ba758ddf4ed39717/ideaIC-2020.3.3/plugins/java/lib/jps-launcher.jar
+2022-01-03 18:46:14,441 [    486]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 379 ms
+2022-01-03 18:46:14,650 [    695]   INFO -    #com.intellij.jna.JnaLoader - JNA library (64-bit) loaded in 202 ms
+2022-01-03 18:46:14,726 [    771]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/dennisanderson/IdeaProjects/untitled, global options path = /Users/dennisanderson/IdeaProjects/progressbar/build/idea-sandbox/config/options
+2022-01-03 18:46:15,104 [   1149]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 377 ms
+2022-01-03 18:46:15,104 [   1149]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2022-01-03 18:46:15,252 [   1297]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2022-01-03 18:46:15,265 [   1310]   INFO - tellij.util.io.FileChannelUtil - uninterruptible FileChannels will be used for indexes
+2022-01-03 18:46:15,560 [   1605]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1639 ms
+2022-01-03 18:46:28,724 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2022-01-03 18:46:28,725 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Users/dennisanderson/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.3.3/3c2013f1573a11e93fff08e8ba758ddf4ed39717/ideaIC-2020.3.3/plugins/java/lib/jps-launcher.jar
+2022-01-03 18:46:29,330 [    606]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 492 ms
+2022-01-03 18:46:29,671 [    947]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/dennisanderson/IdeaProjects/untitled, global options path = /Users/dennisanderson/IdeaProjects/progressbar/build/idea-sandbox/config/options
+2022-01-03 18:46:30,101 [   1377]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 429 ms
+2022-01-03 18:46:30,101 [   1377]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2022-01-03 18:46:30,325 [   1601]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2022-01-03 18:46:30,339 [   1615]   INFO - tellij.util.io.FileChannelUtil - uninterruptible FileChannels will be used for indexes
+2022-01-03 18:46:32,023 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2022-01-03 18:46:32,024 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Users/dennisanderson/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.3.3/3c2013f1573a11e93fff08e8ba758ddf4ed39717/ideaIC-2020.3.3/plugins/java/lib/jps-launcher.jar
+2022-01-03 18:46:32,587 [    564]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 378 ms
+2022-01-03 18:46:32,827 [    804]   INFO -    #com.intellij.jna.JnaLoader - JNA library (64-bit) loaded in 231 ms
+2022-01-03 18:46:32,928 [    905]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/dennisanderson/IdeaProjects/untitled, global options path = /Users/dennisanderson/IdeaProjects/progressbar/build/idea-sandbox/config/options
+2022-01-03 18:46:33,278 [   1255]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 350 ms
+2022-01-03 18:46:33,279 [   1256]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2022-01-03 18:46:33,574 [   1551]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2022-01-03 18:46:33,585 [   1562]   INFO - tellij.util.io.FileChannelUtil - uninterruptible FileChannels will be used for indexes
+2022-01-03 18:46:33,837 [   1814]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1863 ms
+2022-01-03 18:46:54,190 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2022-01-03 18:46:54,191 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Users/dennisanderson/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.3.3/3c2013f1573a11e93fff08e8ba758ddf4ed39717/ideaIC-2020.3.3/plugins/java/lib/jps-launcher.jar
+2022-01-03 18:46:54,628 [    438]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 363 ms
+2022-01-03 18:46:54,784 [    594]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/dennisanderson/IdeaProjects/untitled, global options path = /Users/dennisanderson/IdeaProjects/progressbar/build/idea-sandbox/config/options
+2022-01-03 18:46:54,998 [    808]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 213 ms
+2022-01-03 18:46:54,998 [    808]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2022-01-03 18:46:55,105 [    915]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2022-01-03 18:46:55,112 [    922]   INFO - tellij.util.io.FileChannelUtil - uninterruptible FileChannels will be used for indexes
+2022-01-03 18:46:56,008 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2022-01-03 18:46:56,009 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Users/dennisanderson/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.3.3/3c2013f1573a11e93fff08e8ba758ddf4ed39717/ideaIC-2020.3.3/plugins/java/lib/jps-launcher.jar
+2022-01-03 18:46:56,435 [    427]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 337 ms
+2022-01-03 18:46:56,595 [    587]   INFO -    #com.intellij.jna.JnaLoader - JNA library (64-bit) loaded in 153 ms
+2022-01-03 18:46:56,648 [    640]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/dennisanderson/IdeaProjects/untitled, global options path = /Users/dennisanderson/IdeaProjects/progressbar/build/idea-sandbox/config/options
+2022-01-03 18:46:56,903 [    895]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 255 ms
+2022-01-03 18:46:56,903 [    895]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2022-01-03 18:46:57,007 [    999]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2022-01-03 18:46:57,014 [   1006]   INFO - tellij.util.io.FileChannelUtil - uninterruptible FileChannels will be used for indexes
+2022-01-03 18:46:57,154 [   1146]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1164 ms
+2022-01-03 18:47:21,914 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2022-01-03 18:47:21,914 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Users/dennisanderson/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.3.3/3c2013f1573a11e93fff08e8ba758ddf4ed39717/ideaIC-2020.3.3/plugins/java/lib/jps-launcher.jar
+2022-01-03 18:47:22,213 [    299]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 245 ms
+2022-01-03 18:47:22,388 [    474]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/dennisanderson/IdeaProjects/untitled, global options path = /Users/dennisanderson/IdeaProjects/progressbar/build/idea-sandbox/config/options
+2022-01-03 18:47:22,600 [    686]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 212 ms
+2022-01-03 18:47:22,600 [    686]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2022-01-03 18:47:22,701 [    787]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2022-01-03 18:47:22,709 [    795]   INFO - tellij.util.io.FileChannelUtil - uninterruptible FileChannels will be used for indexes
+2022-01-03 18:47:23,479 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2022-01-03 18:47:23,480 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Users/dennisanderson/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.3.3/3c2013f1573a11e93fff08e8ba758ddf4ed39717/ideaIC-2020.3.3/plugins/java/lib/jps-launcher.jar
+2022-01-03 18:47:23,844 [    365]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 285 ms
+2022-01-03 18:47:24,011 [    532]   INFO -    #com.intellij.jna.JnaLoader - JNA library (64-bit) loaded in 159 ms
+2022-01-03 18:47:24,066 [    587]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/dennisanderson/IdeaProjects/untitled, global options path = /Users/dennisanderson/IdeaProjects/progressbar/build/idea-sandbox/config/options
+2022-01-03 18:47:24,281 [    802]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 215 ms
+2022-01-03 18:47:24,281 [    802]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2022-01-03 18:47:24,370 [    891]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2022-01-03 18:47:24,377 [    898]   INFO - tellij.util.io.FileChannelUtil - uninterruptible FileChannels will be used for indexes
+2022-01-03 18:47:24,495 [   1016]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1036 ms
+2022-01-03 18:47:31,241 [   7762]   INFO - rains.jps.cmdline.BuildSession - No changes found since last build. Exiting.
+2022-01-03 18:47:31,630 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2022-01-03 18:47:31,630 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Users/dennisanderson/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.3.3/3c2013f1573a11e93fff08e8ba758ddf4ed39717/ideaIC-2020.3.3/plugins/java/lib/jps-launcher.jar
+2022-01-03 18:47:31,856 [    226]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 182 ms
+2022-01-03 18:47:31,969 [    339]   INFO -    #com.intellij.jna.JnaLoader - JNA library (64-bit) loaded in 108 ms
+2022-01-03 18:47:32,004 [    374]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/dennisanderson/IdeaProjects/untitled, global options path = /Users/dennisanderson/IdeaProjects/progressbar/build/idea-sandbox/config/options
+2022-01-03 18:47:32,158 [    528]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 153 ms
+2022-01-03 18:47:32,158 [    528]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2022-01-03 18:47:32,225 [    595]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2022-01-03 18:47:32,229 [    599]   INFO - tellij.util.io.FileChannelUtil - uninterruptible FileChannels will be used for indexes
+2022-01-03 18:47:32,320 [    690]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 700 ms
+2022-01-03 18:47:42,235 [  10605]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:true; isMake:false parallel compilation:false
+2022-01-03 18:47:42,237 [  10607]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JVM: true
+2022-01-03 18:47:42,238 [  10608]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JS: true
+2022-01-03 18:47:42,243 [  10613]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2022-01-03 18:47:42,243 [  10613]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 82da182d
+2022-01-03 18:47:42,272 [  10642]   INFO - s.index.CompilerReferenceIndex - backward reference index deleted
+java.lang.Exception
+	at org.jetbrains.jps.backwardRefs.index.CompilerReferenceIndex.removeIndexFiles(CompilerReferenceIndex.java:185)
+	at org.jetbrains.jps.backwardRefs.index.CompilerReferenceIndex.removeIndexFiles(CompilerReferenceIndex.java:178)
+	at org.jetbrains.jps.backwardRefs.JavaBackwardReferenceIndexWriter.initialize(JavaBackwardReferenceIndexWriter.java:69)
+	at org.jetbrains.jps.incremental.java.JavaBuilder.buildStarted(JavaBuilder.java:165)
+	at org.jetbrains.jps.incremental.IncProjectBuilder.runBuild(IncProjectBuilder.java:402)
+	at org.jetbrains.jps.incremental.IncProjectBuilder.build(IncProjectBuilder.java:183)
+	at org.jetbrains.jps.cmdline.BuildRunner.runBuild(BuildRunner.java:132)
+	at org.jetbrains.jps.cmdline.BuildSession.runBuild(BuildSession.java:302)
+	at org.jetbrains.jps.cmdline.BuildSession.run(BuildSession.java:132)
+	at org.jetbrains.jps.cmdline.BuildMain$MyMessageHandler.lambda$channelRead0$0(BuildMain.java:219)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+2022-01-03 18:47:42,277 [  10647]   INFO - s.index.CompilerReferenceIndex - backward reference index version doesn't exist
+2022-01-03 18:47:42,353 [  10723]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 19 ms
+2022-01-03 18:47:42,995 [  11365]   INFO - kotlin.jps.build.KotlinBuilder - KotlinTargetsIndex created in 553 ms
+2022-01-03 18:47:43,004 [  11374]   INFO - kotlin.jps.build.KotlinBuilder - Total Kotlin global compile context initialization time: 565 ms
+2022-01-03 18:47:43,441 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2022-01-03 18:47:43,441 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Users/dennisanderson/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.3.3/3c2013f1573a11e93fff08e8ba758ddf4ed39717/ideaIC-2020.3.3/plugins/java/lib/jps-launcher.jar
+2022-01-03 18:47:43,664 [    223]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 176 ms
+2022-01-03 18:47:43,792 [    351]   INFO -    #com.intellij.jna.JnaLoader - JNA library (64-bit) loaded in 124 ms
+2022-01-03 18:47:43,827 [    386]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/dennisanderson/IdeaProjects/untitled, global options path = /Users/dennisanderson/IdeaProjects/progressbar/build/idea-sandbox/config/options
+2022-01-03 18:47:43,982 [    541]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 155 ms
+2022-01-03 18:47:43,982 [    541]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2022-01-03 18:47:44,053 [    612]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2022-01-03 18:47:44,058 [    617]   INFO - tellij.util.io.FileChannelUtil - uninterruptible FileChannels will be used for indexes
+2022-01-03 18:47:44,154 [    713]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 724 ms
+2022-01-03 18:47:49,085 [   5644]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:true; isMake:false parallel compilation:false
+2022-01-03 18:47:49,087 [   5646]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JVM: true
+2022-01-03 18:47:49,087 [   5646]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JS: true
+2022-01-03 18:47:49,091 [   5650]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2022-01-03 18:47:49,091 [   5650]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started cb0ba309
+2022-01-03 18:47:49,111 [   5670]   INFO - s.index.CompilerReferenceIndex - backward reference index deleted
+java.lang.Exception
+	at org.jetbrains.jps.backwardRefs.index.CompilerReferenceIndex.removeIndexFiles(CompilerReferenceIndex.java:185)
+	at org.jetbrains.jps.backwardRefs.index.CompilerReferenceIndex.removeIndexFiles(CompilerReferenceIndex.java:178)
+	at org.jetbrains.jps.backwardRefs.JavaBackwardReferenceIndexWriter.initialize(JavaBackwardReferenceIndexWriter.java:69)
+	at org.jetbrains.jps.incremental.java.JavaBuilder.buildStarted(JavaBuilder.java:165)
+	at org.jetbrains.jps.incremental.IncProjectBuilder.runBuild(IncProjectBuilder.java:402)
+	at org.jetbrains.jps.incremental.IncProjectBuilder.build(IncProjectBuilder.java:183)
+	at org.jetbrains.jps.cmdline.BuildRunner.runBuild(BuildRunner.java:132)
+	at org.jetbrains.jps.cmdline.BuildSession.runBuild(BuildSession.java:302)
+	at org.jetbrains.jps.cmdline.BuildSession.run(BuildSession.java:132)
+	at org.jetbrains.jps.cmdline.BuildMain$MyMessageHandler.lambda$channelRead0$0(BuildMain.java:219)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+2022-01-03 18:47:49,116 [   5675]   INFO - s.index.CompilerReferenceIndex - backward reference index version doesn't exist
+2022-01-03 18:47:49,185 [   5744]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 15 ms
+2022-01-03 18:47:49,777 [   6336]   INFO - kotlin.jps.build.KotlinBuilder - KotlinTargetsIndex created in 521 ms
+2022-01-03 18:47:49,784 [   6343]   INFO - kotlin.jps.build.KotlinBuilder - Total Kotlin global compile context initialization time: 530 ms
+2022-01-03 18:47:50,198 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2022-01-03 18:47:50,199 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Users/dennisanderson/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.3.3/3c2013f1573a11e93fff08e8ba758ddf4ed39717/ideaIC-2020.3.3/plugins/java/lib/jps-launcher.jar
+2022-01-03 18:47:50,447 [    249]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 200 ms
+2022-01-03 18:47:50,577 [    379]   INFO -    #com.intellij.jna.JnaLoader - JNA library (64-bit) loaded in 124 ms
+2022-01-03 18:47:50,613 [    415]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/dennisanderson/IdeaProjects/untitled, global options path = /Users/dennisanderson/IdeaProjects/progressbar/build/idea-sandbox/config/options
+2022-01-03 18:47:50,769 [    571]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 155 ms
+2022-01-03 18:47:50,769 [    571]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2022-01-03 18:47:50,838 [    640]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2022-01-03 18:47:50,842 [    644]   INFO - tellij.util.io.FileChannelUtil - uninterruptible FileChannels will be used for indexes
+2022-01-03 18:47:50,935 [    737]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 748 ms
+2022-01-03 18:48:02,045 [  11847]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:true; isMake:false parallel compilation:false
+2022-01-03 18:48:02,048 [  11850]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JVM: true
+2022-01-03 18:48:02,048 [  11850]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JS: true
+2022-01-03 18:48:02,053 [  11855]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2022-01-03 18:48:02,053 [  11855]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 630b2be4
+2022-01-03 18:48:02,080 [  11882]   INFO - s.index.CompilerReferenceIndex - backward reference index deleted
+java.lang.Exception
+	at org.jetbrains.jps.backwardRefs.index.CompilerReferenceIndex.removeIndexFiles(CompilerReferenceIndex.java:185)
+	at org.jetbrains.jps.backwardRefs.index.CompilerReferenceIndex.removeIndexFiles(CompilerReferenceIndex.java:178)
+	at org.jetbrains.jps.backwardRefs.JavaBackwardReferenceIndexWriter.initialize(JavaBackwardReferenceIndexWriter.java:69)
+	at org.jetbrains.jps.incremental.java.JavaBuilder.buildStarted(JavaBuilder.java:165)
+	at org.jetbrains.jps.incremental.IncProjectBuilder.runBuild(IncProjectBuilder.java:402)
+	at org.jetbrains.jps.incremental.IncProjectBuilder.build(IncProjectBuilder.java:183)
+	at org.jetbrains.jps.cmdline.BuildRunner.runBuild(BuildRunner.java:132)
+	at org.jetbrains.jps.cmdline.BuildSession.runBuild(BuildSession.java:302)
+	at org.jetbrains.jps.cmdline.BuildSession.run(BuildSession.java:132)
+	at org.jetbrains.jps.cmdline.BuildMain$MyMessageHandler.lambda$channelRead0$0(BuildMain.java:219)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+2022-01-03 18:48:02,083 [  11885]   INFO - s.index.CompilerReferenceIndex - backward reference index version doesn't exist
+2022-01-03 18:48:02,159 [  11961]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 19 ms
+2022-01-03 18:48:02,731 [  12533]   INFO - kotlin.jps.build.KotlinBuilder - KotlinTargetsIndex created in 493 ms
+2022-01-03 18:48:02,739 [  12541]   INFO - kotlin.jps.build.KotlinBuilder - Total Kotlin global compile context initialization time: 503 ms
+2022-01-03 18:48:03,148 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2022-01-03 18:48:03,148 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Users/dennisanderson/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.3.3/3c2013f1573a11e93fff08e8ba758ddf4ed39717/ideaIC-2020.3.3/plugins/java/lib/jps-launcher.jar
+2022-01-03 18:48:03,388 [    240]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 193 ms
+2022-01-03 18:48:03,505 [    357]   INFO -    #com.intellij.jna.JnaLoader - JNA library (64-bit) loaded in 112 ms
+2022-01-03 18:48:03,541 [    393]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/dennisanderson/IdeaProjects/untitled, global options path = /Users/dennisanderson/IdeaProjects/progressbar/build/idea-sandbox/config/options
+2022-01-03 18:48:03,710 [    562]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 169 ms
+2022-01-03 18:48:03,710 [    562]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2022-01-03 18:48:03,783 [    635]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2022-01-03 18:48:03,788 [    640]   INFO - tellij.util.io.FileChannelUtil - uninterruptible FileChannels will be used for indexes
+2022-01-03 18:48:03,889 [    741]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 751 ms
+2022-01-03 18:48:15,476 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2022-01-03 18:48:15,476 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Users/dennisanderson/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.3.3/3c2013f1573a11e93fff08e8ba758ddf4ed39717/ideaIC-2020.3.3/plugins/java/lib/jps-launcher.jar
+2022-01-03 18:48:16,106 [    630]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 533 ms
+2022-01-03 18:48:16,375 [    899]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/dennisanderson/IdeaProjects/untitled, global options path = /Users/dennisanderson/IdeaProjects/progressbar/build/idea-sandbox/config/options
+2022-01-03 18:48:16,752 [   1276]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 376 ms
+2022-01-03 18:48:16,752 [   1276]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2022-01-03 18:48:16,883 [   1407]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2022-01-03 18:48:16,889 [   1413]   INFO - tellij.util.io.FileChannelUtil - uninterruptible FileChannels will be used for indexes
+2022-01-03 18:48:18,271 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2022-01-03 18:48:18,272 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Users/dennisanderson/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.3.3/3c2013f1573a11e93fff08e8ba758ddf4ed39717/ideaIC-2020.3.3/plugins/java/lib/jps-launcher.jar
+2022-01-03 18:48:18,739 [    468]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 351 ms
+2022-01-03 18:48:18,908 [    637]   INFO -    #com.intellij.jna.JnaLoader - JNA library (64-bit) loaded in 162 ms
+2022-01-03 18:48:18,966 [    695]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/dennisanderson/IdeaProjects/untitled, global options path = /Users/dennisanderson/IdeaProjects/progressbar/build/idea-sandbox/config/options
+2022-01-03 18:48:19,471 [   1200]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 504 ms
+2022-01-03 18:48:19,471 [   1200]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2022-01-03 18:48:19,616 [   1345]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2022-01-03 18:48:19,622 [   1351]   INFO - tellij.util.io.FileChannelUtil - uninterruptible FileChannels will be used for indexes
+2022-01-03 18:48:19,880 [   1609]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1631 ms
+2022-01-03 18:48:39,543 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2022-01-03 18:48:39,546 [      3]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Users/dennisanderson/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.3.3/3c2013f1573a11e93fff08e8ba758ddf4ed39717/ideaIC-2020.3.3/plugins/java/lib/jps-launcher.jar
+2022-01-03 18:48:40,078 [    535]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 434 ms
+2022-01-03 18:48:40,272 [    729]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/dennisanderson/IdeaProjects/untitled, global options path = /Users/dennisanderson/IdeaProjects/progressbar/build/idea-sandbox/config/options
+2022-01-03 18:48:40,695 [   1152]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 423 ms
+2022-01-03 18:48:40,696 [   1153]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2022-01-03 18:48:40,887 [   1344]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2022-01-03 18:48:40,896 [   1353]   INFO - tellij.util.io.FileChannelUtil - uninterruptible FileChannels will be used for indexes
+2022-01-03 18:48:42,274 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2022-01-03 18:48:42,275 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Users/dennisanderson/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.3.3/3c2013f1573a11e93fff08e8ba758ddf4ed39717/ideaIC-2020.3.3/plugins/java/lib/jps-launcher.jar
+2022-01-03 18:48:42,885 [    611]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 467 ms
+2022-01-03 18:48:43,076 [    802]   INFO -    #com.intellij.jna.JnaLoader - JNA library (64-bit) loaded in 186 ms
+2022-01-03 18:48:43,130 [    856]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/dennisanderson/IdeaProjects/untitled, global options path = /Users/dennisanderson/IdeaProjects/progressbar/build/idea-sandbox/config/options
+2022-01-03 18:48:43,473 [   1199]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 343 ms
+2022-01-03 18:48:43,474 [   1200]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2022-01-03 18:48:43,672 [   1398]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2022-01-03 18:48:43,692 [   1418]   INFO - tellij.util.io.FileChannelUtil - uninterruptible FileChannels will be used for indexes
+2022-01-03 18:48:44,009 [   1735]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1769 ms
+2022-01-03 18:49:00,041 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2022-01-03 18:49:00,045 [      4]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Users/dennisanderson/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.3.3/3c2013f1573a11e93fff08e8ba758ddf4ed39717/ideaIC-2020.3.3/plugins/java/lib/jps-launcher.jar
+2022-01-03 18:49:00,600 [    559]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 478 ms
+2022-01-03 18:49:00,892 [    851]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/dennisanderson/IdeaProjects/untitled, global options path = /Users/dennisanderson/IdeaProjects/progressbar/build/idea-sandbox/config/options
+2022-01-03 18:49:01,193 [   1152]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 301 ms
+2022-01-03 18:49:01,194 [   1153]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2022-01-03 18:49:01,319 [   1278]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2022-01-03 18:49:01,324 [   1283]   INFO - tellij.util.io.FileChannelUtil - uninterruptible FileChannels will be used for indexes
+2022-01-03 18:49:02,806 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2022-01-03 18:49:02,807 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Users/dennisanderson/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.3.3/3c2013f1573a11e93fff08e8ba758ddf4ed39717/ideaIC-2020.3.3/plugins/java/lib/jps-launcher.jar
+2022-01-03 18:49:03,648 [    842]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 637 ms
+2022-01-03 18:49:04,015 [   1209]   INFO -    #com.intellij.jna.JnaLoader - JNA library (64-bit) loaded in 328 ms
+2022-01-03 18:49:04,129 [   1323]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/dennisanderson/IdeaProjects/untitled, global options path = /Users/dennisanderson/IdeaProjects/progressbar/build/idea-sandbox/config/options
+2022-01-03 18:49:04,776 [   1970]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 646 ms
+2022-01-03 18:49:04,776 [   1970]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2022-01-03 18:49:05,009 [   2203]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2022-01-03 18:49:05,028 [   2222]   INFO - tellij.util.io.FileChannelUtil - uninterruptible FileChannels will be used for indexes
+2022-01-03 18:49:05,471 [   2665]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 2709 ms
+2022-01-03 18:49:23,267 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2022-01-03 18:49:23,268 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Users/dennisanderson/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.3.3/3c2013f1573a11e93fff08e8ba758ddf4ed39717/ideaIC-2020.3.3/plugins/java/lib/jps-launcher.jar
+2022-01-03 18:49:23,923 [    656]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 515 ms
+2022-01-03 18:49:24,238 [    971]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/dennisanderson/IdeaProjects/untitled, global options path = /Users/dennisanderson/IdeaProjects/progressbar/build/idea-sandbox/config/options
+2022-01-03 18:49:24,625 [   1358]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 386 ms
+2022-01-03 18:49:24,625 [   1358]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2022-01-03 18:49:24,917 [   1650]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2022-01-03 18:49:24,933 [   1666]   INFO - tellij.util.io.FileChannelUtil - uninterruptible FileChannels will be used for indexes
+2022-01-03 18:49:26,830 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2022-01-03 18:49:26,831 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Users/dennisanderson/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.3.3/3c2013f1573a11e93fff08e8ba758ddf4ed39717/ideaIC-2020.3.3/plugins/java/lib/jps-launcher.jar
+2022-01-03 18:49:27,909 [   1079]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 901 ms
+2022-01-03 18:49:28,236 [   1406]   INFO -    #com.intellij.jna.JnaLoader - JNA library (64-bit) loaded in 314 ms
+2022-01-03 18:49:28,442 [   1612]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/dennisanderson/IdeaProjects/untitled, global options path = /Users/dennisanderson/IdeaProjects/progressbar/build/idea-sandbox/config/options
+2022-01-03 18:49:29,201 [   2371]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 759 ms
+2022-01-03 18:49:29,201 [   2371]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2022-01-03 18:49:29,460 [   2630]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2022-01-03 18:49:29,480 [   2650]   INFO - tellij.util.io.FileChannelUtil - uninterruptible FileChannels will be used for indexes
+2022-01-03 18:49:29,831 [   3001]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 3068 ms
+2022-01-03 18:51:12,542 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2022-01-03 18:51:12,543 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Users/dennisanderson/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.3.3/3c2013f1573a11e93fff08e8ba758ddf4ed39717/ideaIC-2020.3.3/plugins/java/lib/jps-launcher.jar
+2022-01-03 18:51:12,913 [    371]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 300 ms
+2022-01-03 18:51:13,088 [    546]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/dennisanderson/IdeaProjects/untitled, global options path = /Users/dennisanderson/IdeaProjects/progressbar/build/idea-sandbox/config/options
+2022-01-03 18:51:13,301 [    759]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 212 ms
+2022-01-03 18:51:13,301 [    759]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2022-01-03 18:51:13,392 [    850]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2022-01-03 18:51:13,398 [    856]   INFO - tellij.util.io.FileChannelUtil - uninterruptible FileChannels will be used for indexes
+2022-01-03 18:51:14,298 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2022-01-03 18:51:14,299 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Users/dennisanderson/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.3.3/3c2013f1573a11e93fff08e8ba758ddf4ed39717/ideaIC-2020.3.3/plugins/java/lib/jps-launcher.jar
+2022-01-03 18:51:14,881 [    583]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 427 ms
+2022-01-03 18:51:15,044 [    746]   INFO -    #com.intellij.jna.JnaLoader - JNA library (64-bit) loaded in 154 ms
+2022-01-03 18:51:15,097 [    799]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/dennisanderson/IdeaProjects/untitled, global options path = /Users/dennisanderson/IdeaProjects/progressbar/build/idea-sandbox/config/options
+2022-01-03 18:51:15,361 [   1063]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 263 ms
+2022-01-03 18:51:15,361 [   1063]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2022-01-03 18:51:15,447 [   1149]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2022-01-03 18:51:15,454 [   1156]   INFO - tellij.util.io.FileChannelUtil - uninterruptible FileChannels will be used for indexes
+2022-01-03 18:51:15,686 [   1388]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1405 ms
+2022-01-03 18:51:27,260 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2022-01-03 18:51:27,260 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Users/dennisanderson/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.3.3/3c2013f1573a11e93fff08e8ba758ddf4ed39717/ideaIC-2020.3.3/plugins/java/lib/jps-launcher.jar
+2022-01-03 18:51:27,660 [    400]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 334 ms
+2022-01-03 18:51:27,927 [    667]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/dennisanderson/IdeaProjects/untitled, global options path = /Users/dennisanderson/IdeaProjects/progressbar/build/idea-sandbox/config/options
+2022-01-03 18:51:28,301 [   1041]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 374 ms
+2022-01-03 18:51:28,301 [   1041]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2022-01-03 18:51:28,504 [   1244]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2022-01-03 18:51:28,510 [   1250]   INFO - tellij.util.io.FileChannelUtil - uninterruptible FileChannels will be used for indexes
+2022-01-03 18:51:30,073 [      1]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2022-01-03 18:51:30,074 [      2]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Users/dennisanderson/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.3.3/3c2013f1573a11e93fff08e8ba758ddf4ed39717/ideaIC-2020.3.3/plugins/java/lib/jps-launcher.jar
+2022-01-03 18:51:30,815 [    743]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 561 ms
+2022-01-03 18:51:30,994 [    922]   INFO -    #com.intellij.jna.JnaLoader - JNA library (64-bit) loaded in 174 ms
+2022-01-03 18:51:31,048 [    976]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/dennisanderson/IdeaProjects/untitled, global options path = /Users/dennisanderson/IdeaProjects/progressbar/build/idea-sandbox/config/options
+2022-01-03 18:51:31,365 [   1293]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 317 ms
+2022-01-03 18:51:31,365 [   1293]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2022-01-03 18:51:31,529 [   1457]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2022-01-03 18:51:31,543 [   1471]   INFO - tellij.util.io.FileChannelUtil - uninterruptible FileChannels will be used for indexes
+2022-01-03 18:51:31,896 [   1824]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1866 ms
+2022-01-03 18:51:53,274 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2022-01-03 18:51:53,274 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Users/dennisanderson/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.3.3/3c2013f1573a11e93fff08e8ba758ddf4ed39717/ideaIC-2020.3.3/plugins/java/lib/jps-launcher.jar
+2022-01-03 18:51:53,832 [    558]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 490 ms
+2022-01-03 18:51:54,088 [    814]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/dennisanderson/IdeaProjects/untitled, global options path = /Users/dennisanderson/IdeaProjects/progressbar/build/idea-sandbox/config/options
+2022-01-03 18:51:54,416 [   1142]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 328 ms
+2022-01-03 18:51:54,416 [   1142]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2022-01-03 18:51:54,534 [   1260]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2022-01-03 18:51:54,543 [   1269]   INFO - tellij.util.io.FileChannelUtil - uninterruptible FileChannels will be used for indexes
+2022-01-03 18:51:55,816 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2022-01-03 18:51:55,818 [      2]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Users/dennisanderson/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.3.3/3c2013f1573a11e93fff08e8ba758ddf4ed39717/ideaIC-2020.3.3/plugins/java/lib/jps-launcher.jar
+2022-01-03 18:51:56,450 [    634]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 457 ms
+2022-01-03 18:51:56,682 [    866]   INFO -    #com.intellij.jna.JnaLoader - JNA library (64-bit) loaded in 219 ms
+2022-01-03 18:51:56,782 [    966]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/dennisanderson/IdeaProjects/untitled, global options path = /Users/dennisanderson/IdeaProjects/progressbar/build/idea-sandbox/config/options
+2022-01-03 18:51:57,188 [   1372]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 405 ms
+2022-01-03 18:51:57,189 [   1373]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2022-01-03 18:51:57,362 [   1546]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2022-01-03 18:51:57,376 [   1560]   INFO - tellij.util.io.FileChannelUtil - uninterruptible FileChannels will be used for indexes
+2022-01-03 18:51:57,634 [   1818]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1853 ms
+2022-01-03 18:52:36,609 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2022-01-03 18:52:36,610 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Users/dennisanderson/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.3.3/3c2013f1573a11e93fff08e8ba758ddf4ed39717/ideaIC-2020.3.3/plugins/java/lib/jps-launcher.jar
+2022-01-03 18:52:37,001 [    392]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 302 ms
+2022-01-03 18:52:37,173 [    564]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/dennisanderson/IdeaProjects/untitled, global options path = /Users/dennisanderson/IdeaProjects/progressbar/build/idea-sandbox/config/options
+2022-01-03 18:52:37,437 [    828]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 264 ms
+2022-01-03 18:52:37,437 [    828]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2022-01-03 18:52:37,545 [    936]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2022-01-03 18:52:37,551 [    942]   INFO - tellij.util.io.FileChannelUtil - uninterruptible FileChannels will be used for indexes
+2022-01-03 18:52:38,921 [      1]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2022-01-03 18:52:38,921 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Users/dennisanderson/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.3.3/3c2013f1573a11e93fff08e8ba758ddf4ed39717/ideaIC-2020.3.3/plugins/java/lib/jps-launcher.jar
+2022-01-03 18:52:39,304 [    384]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 302 ms
+2022-01-03 18:52:39,474 [    554]   INFO -    #com.intellij.jna.JnaLoader - JNA library (64-bit) loaded in 165 ms
+2022-01-03 18:52:39,534 [    614]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/dennisanderson/IdeaProjects/untitled, global options path = /Users/dennisanderson/IdeaProjects/progressbar/build/idea-sandbox/config/options
+2022-01-03 18:52:39,758 [    838]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 223 ms
+2022-01-03 18:52:39,758 [    838]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2022-01-03 18:52:39,891 [    971]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2022-01-03 18:52:39,906 [    986]   INFO - tellij.util.io.FileChannelUtil - uninterruptible FileChannels will be used for indexes
+2022-01-03 18:52:40,168 [   1248]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1263 ms
+2022-01-03 18:52:53,129 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2022-01-03 18:52:53,130 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Users/dennisanderson/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.3.3/3c2013f1573a11e93fff08e8ba758ddf4ed39717/ideaIC-2020.3.3/plugins/java/lib/jps-launcher.jar
+2022-01-03 18:52:53,753 [    624]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 517 ms
+2022-01-03 18:52:54,012 [    883]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/dennisanderson/IdeaProjects/untitled, global options path = /Users/dennisanderson/IdeaProjects/progressbar/build/idea-sandbox/config/options
+2022-01-03 18:52:54,350 [   1221]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 337 ms
+2022-01-03 18:52:54,350 [   1221]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2022-01-03 18:52:54,562 [   1433]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2022-01-03 18:52:54,577 [   1448]   INFO - tellij.util.io.FileChannelUtil - uninterruptible FileChannels will be used for indexes
+2022-01-03 18:52:56,534 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2022-01-03 18:52:56,535 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Users/dennisanderson/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.3.3/3c2013f1573a11e93fff08e8ba758ddf4ed39717/ideaIC-2020.3.3/plugins/java/lib/jps-launcher.jar
+2022-01-03 18:52:57,204 [    670]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 567 ms
+2022-01-03 18:52:57,488 [    954]   INFO -    #com.intellij.jna.JnaLoader - JNA library (64-bit) loaded in 273 ms
+2022-01-03 18:52:57,582 [   1048]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/dennisanderson/IdeaProjects/untitled, global options path = /Users/dennisanderson/IdeaProjects/progressbar/build/idea-sandbox/config/options
+2022-01-03 18:52:57,902 [   1368]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 319 ms
+2022-01-03 18:52:57,902 [   1368]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2022-01-03 18:52:58,021 [   1487]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2022-01-03 18:52:58,028 [   1494]   INFO - tellij.util.io.FileChannelUtil - uninterruptible FileChannels will be used for indexes
+2022-01-03 18:52:58,157 [   1623]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1647 ms
+2022-01-03 18:53:21,355 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2022-01-03 18:53:21,356 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Users/dennisanderson/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.3.3/3c2013f1573a11e93fff08e8ba758ddf4ed39717/ideaIC-2020.3.3/plugins/java/lib/jps-launcher.jar
+2022-01-03 18:53:21,835 [    480]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 401 ms
+2022-01-03 18:53:22,073 [    718]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/dennisanderson/IdeaProjects/untitled, global options path = /Users/dennisanderson/IdeaProjects/progressbar/build/idea-sandbox/config/options
+2022-01-03 18:53:22,522 [   1167]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 449 ms
+2022-01-03 18:53:22,522 [   1167]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2022-01-03 18:53:22,701 [   1346]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2022-01-03 18:53:22,711 [   1356]   INFO - tellij.util.io.FileChannelUtil - uninterruptible FileChannels will be used for indexes
+2022-01-03 18:53:24,396 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2022-01-03 18:53:24,396 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Users/dennisanderson/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.3.3/3c2013f1573a11e93fff08e8ba758ddf4ed39717/ideaIC-2020.3.3/plugins/java/lib/jps-launcher.jar
+2022-01-03 18:53:24,777 [    381]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 308 ms
+2022-01-03 18:53:24,963 [    567]   INFO -    #com.intellij.jna.JnaLoader - JNA library (64-bit) loaded in 180 ms
+2022-01-03 18:53:25,034 [    638]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/dennisanderson/IdeaProjects/untitled, global options path = /Users/dennisanderson/IdeaProjects/progressbar/build/idea-sandbox/config/options
+2022-01-03 18:53:25,406 [   1010]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 371 ms
+2022-01-03 18:53:25,406 [   1010]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2022-01-03 18:53:25,631 [   1235]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2022-01-03 18:53:25,646 [   1250]   INFO - tellij.util.io.FileChannelUtil - uninterruptible FileChannels will be used for indexes
+2022-01-03 18:53:25,844 [   1448]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1462 ms
+2022-01-03 18:54:05,425 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2022-01-03 18:54:05,426 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Users/dennisanderson/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.3.3/3c2013f1573a11e93fff08e8ba758ddf4ed39717/ideaIC-2020.3.3/plugins/java/lib/jps-launcher.jar
+2022-01-03 18:54:05,872 [    447]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 353 ms
+2022-01-03 18:54:06,177 [    752]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/dennisanderson/IdeaProjects/untitled, global options path = /Users/dennisanderson/IdeaProjects/progressbar/build/idea-sandbox/config/options
+2022-01-03 18:54:06,455 [   1030]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 277 ms
+2022-01-03 18:54:06,455 [   1030]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2022-01-03 18:54:06,576 [   1151]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2022-01-03 18:54:06,584 [   1159]   INFO - tellij.util.io.FileChannelUtil - uninterruptible FileChannels will be used for indexes
+2022-01-03 18:54:08,238 [      1]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2022-01-03 18:54:08,238 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Users/dennisanderson/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.3.3/3c2013f1573a11e93fff08e8ba758ddf4ed39717/ideaIC-2020.3.3/plugins/java/lib/jps-launcher.jar
+2022-01-03 18:54:08,787 [    550]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 434 ms
+2022-01-03 18:54:09,006 [    769]   INFO -    #com.intellij.jna.JnaLoader - JNA library (64-bit) loaded in 207 ms
+2022-01-03 18:54:09,102 [    865]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/dennisanderson/IdeaProjects/untitled, global options path = /Users/dennisanderson/IdeaProjects/progressbar/build/idea-sandbox/config/options
+2022-01-03 18:54:09,560 [   1323]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 458 ms
+2022-01-03 18:54:09,560 [   1323]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2022-01-03 18:54:09,755 [   1518]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2022-01-03 18:54:09,767 [   1530]   INFO - tellij.util.io.FileChannelUtil - uninterruptible FileChannels will be used for indexes
+2022-01-03 18:54:10,076 [   1839]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1863 ms
+2022-01-03 18:54:43,105 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2022-01-03 18:54:43,106 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Users/dennisanderson/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.3.3/3c2013f1573a11e93fff08e8ba758ddf4ed39717/ideaIC-2020.3.3/plugins/java/lib/jps-launcher.jar
+2022-01-03 18:54:43,698 [    593]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 439 ms
+2022-01-03 18:54:44,014 [    909]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/dennisanderson/IdeaProjects/untitled, global options path = /Users/dennisanderson/IdeaProjects/progressbar/build/idea-sandbox/config/options
+2022-01-03 18:54:44,582 [   1477]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 567 ms
+2022-01-03 18:54:44,582 [   1477]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2022-01-03 18:54:44,812 [   1707]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2022-01-03 18:54:44,827 [   1722]   INFO - tellij.util.io.FileChannelUtil - uninterruptible FileChannels will be used for indexes
+2022-01-03 18:54:46,358 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2022-01-03 18:54:46,359 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Users/dennisanderson/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.3.3/3c2013f1573a11e93fff08e8ba758ddf4ed39717/ideaIC-2020.3.3/plugins/java/lib/jps-launcher.jar
+2022-01-03 18:54:47,259 [    901]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 618 ms
+2022-01-03 18:54:47,555 [   1197]   INFO -    #com.intellij.jna.JnaLoader - JNA library (64-bit) loaded in 283 ms
+2022-01-03 18:54:47,783 [   1425]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/dennisanderson/IdeaProjects/untitled, global options path = /Users/dennisanderson/IdeaProjects/progressbar/build/idea-sandbox/config/options
+2022-01-03 18:54:48,508 [   2150]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 724 ms
+2022-01-03 18:54:48,508 [   2150]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2022-01-03 18:54:48,879 [   2521]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2022-01-03 18:54:48,908 [   2550]   INFO - tellij.util.io.FileChannelUtil - uninterruptible FileChannels will be used for indexes
+2022-01-03 18:54:49,299 [   2941]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 2974 ms
+2022-01-03 18:55:09,251 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2022-01-03 18:55:09,251 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Users/dennisanderson/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.3.3/3c2013f1573a11e93fff08e8ba758ddf4ed39717/ideaIC-2020.3.3/plugins/java/lib/jps-launcher.jar
+2022-01-03 18:55:09,607 [    356]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 294 ms
+2022-01-03 18:55:09,796 [    545]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/dennisanderson/IdeaProjects/untitled, global options path = /Users/dennisanderson/IdeaProjects/progressbar/build/idea-sandbox/config/options
+2022-01-03 18:55:10,016 [    765]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 219 ms
+2022-01-03 18:55:10,016 [    765]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2022-01-03 18:55:10,113 [    862]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2022-01-03 18:55:10,119 [    868]   INFO - tellij.util.io.FileChannelUtil - uninterruptible FileChannels will be used for indexes
+2022-01-03 18:55:11,054 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2022-01-03 18:55:11,055 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Users/dennisanderson/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.3.3/3c2013f1573a11e93fff08e8ba758ddf4ed39717/ideaIC-2020.3.3/plugins/java/lib/jps-launcher.jar
+2022-01-03 18:55:11,404 [    350]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 276 ms
+2022-01-03 18:55:11,553 [    499]   INFO -    #com.intellij.jna.JnaLoader - JNA library (64-bit) loaded in 139 ms
+2022-01-03 18:55:11,601 [    547]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/dennisanderson/IdeaProjects/untitled, global options path = /Users/dennisanderson/IdeaProjects/progressbar/build/idea-sandbox/config/options
+2022-01-03 18:55:11,803 [    749]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 202 ms
+2022-01-03 18:55:11,803 [    749]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2022-01-03 18:55:11,900 [    846]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2022-01-03 18:55:11,906 [    852]   INFO - tellij.util.io.FileChannelUtil - uninterruptible FileChannels will be used for indexes
+2022-01-03 18:55:12,028 [    974]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 990 ms
+2022-01-03 18:55:35,325 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2022-01-03 18:55:35,325 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Users/dennisanderson/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.3.3/3c2013f1573a11e93fff08e8ba758ddf4ed39717/ideaIC-2020.3.3/plugins/java/lib/jps-launcher.jar
+2022-01-03 18:55:35,665 [    340]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 269 ms
+2022-01-03 18:55:35,841 [    516]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/dennisanderson/IdeaProjects/untitled, global options path = /Users/dennisanderson/IdeaProjects/progressbar/build/idea-sandbox/config/options
+2022-01-03 18:55:36,054 [    729]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 212 ms
+2022-01-03 18:55:36,054 [    729]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2022-01-03 18:55:36,152 [    827]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2022-01-03 18:55:36,159 [    834]   INFO - tellij.util.io.FileChannelUtil - uninterruptible FileChannels will be used for indexes
+2022-01-03 18:55:37,009 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2022-01-03 18:55:37,010 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Users/dennisanderson/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.3.3/3c2013f1573a11e93fff08e8ba758ddf4ed39717/ideaIC-2020.3.3/plugins/java/lib/jps-launcher.jar
+2022-01-03 18:55:37,339 [    330]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 250 ms
+2022-01-03 18:55:37,515 [    506]   INFO -    #com.intellij.jna.JnaLoader - JNA library (64-bit) loaded in 172 ms
+2022-01-03 18:55:37,608 [    599]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/dennisanderson/IdeaProjects/untitled, global options path = /Users/dennisanderson/IdeaProjects/progressbar/build/idea-sandbox/config/options
+2022-01-03 18:55:37,911 [    902]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 303 ms
+2022-01-03 18:55:37,912 [    903]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2022-01-03 18:55:38,030 [   1021]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2022-01-03 18:55:38,049 [   1040]   INFO - tellij.util.io.FileChannelUtil - uninterruptible FileChannels will be used for indexes
+2022-01-03 18:55:38,216 [   1207]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1221 ms
+2022-01-03 18:55:49,078 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2022-01-03 18:55:49,079 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Users/dennisanderson/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.3.3/3c2013f1573a11e93fff08e8ba758ddf4ed39717/ideaIC-2020.3.3/plugins/java/lib/jps-launcher.jar
+2022-01-03 18:55:49,667 [    589]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 437 ms
+2022-01-03 18:55:49,874 [    796]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/dennisanderson/IdeaProjects/untitled, global options path = /Users/dennisanderson/IdeaProjects/progressbar/build/idea-sandbox/config/options
+2022-01-03 18:55:50,215 [   1137]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 341 ms
+2022-01-03 18:55:50,216 [   1138]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2022-01-03 18:55:50,549 [   1471]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2022-01-03 18:55:50,593 [   1515]   INFO - tellij.util.io.FileChannelUtil - uninterruptible FileChannels will be used for indexes
+2022-01-03 18:55:51,929 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2022-01-03 18:55:51,930 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Users/dennisanderson/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.3.3/3c2013f1573a11e93fff08e8ba758ddf4ed39717/ideaIC-2020.3.3/plugins/java/lib/jps-launcher.jar
+2022-01-03 18:55:52,487 [    558]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 452 ms
+2022-01-03 18:55:52,692 [    763]   INFO -    #com.intellij.jna.JnaLoader - JNA library (64-bit) loaded in 200 ms
+2022-01-03 18:55:52,787 [    858]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/dennisanderson/IdeaProjects/untitled, global options path = /Users/dennisanderson/IdeaProjects/progressbar/build/idea-sandbox/config/options
+2022-01-03 18:55:53,103 [   1174]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 316 ms
+2022-01-03 18:55:53,104 [   1175]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2022-01-03 18:55:53,203 [   1274]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2022-01-03 18:55:53,210 [   1281]   INFO - tellij.util.io.FileChannelUtil - uninterruptible FileChannels will be used for indexes
+2022-01-03 18:55:53,496 [   1567]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1597 ms
+2022-01-03 18:56:33,403 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2022-01-03 18:56:33,403 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Users/dennisanderson/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.3.3/3c2013f1573a11e93fff08e8ba758ddf4ed39717/ideaIC-2020.3.3/plugins/java/lib/jps-launcher.jar
+2022-01-03 18:56:33,972 [    569]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 443 ms
+2022-01-03 18:56:34,326 [    923]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/dennisanderson/IdeaProjects/untitled, global options path = /Users/dennisanderson/IdeaProjects/progressbar/build/idea-sandbox/config/options
+2022-01-03 18:56:34,807 [   1404]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 481 ms
+2022-01-03 18:56:34,808 [   1405]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2022-01-03 18:56:35,144 [   1741]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2022-01-03 18:56:35,166 [   1763]   INFO - tellij.util.io.FileChannelUtil - uninterruptible FileChannels will be used for indexes
+2022-01-03 18:56:36,725 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2022-01-03 18:56:36,726 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Users/dennisanderson/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.3.3/3c2013f1573a11e93fff08e8ba758ddf4ed39717/ideaIC-2020.3.3/plugins/java/lib/jps-launcher.jar
+2022-01-03 18:56:37,260 [    535]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 438 ms
+2022-01-03 18:56:37,478 [    753]   INFO -    #com.intellij.jna.JnaLoader - JNA library (64-bit) loaded in 203 ms
+2022-01-03 18:56:37,559 [    834]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/dennisanderson/IdeaProjects/untitled, global options path = /Users/dennisanderson/IdeaProjects/progressbar/build/idea-sandbox/config/options
+2022-01-03 18:56:37,930 [   1205]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 371 ms
+2022-01-03 18:56:37,931 [   1206]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2022-01-03 18:56:38,081 [   1356]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2022-01-03 18:56:38,093 [   1368]   INFO - tellij.util.io.FileChannelUtil - uninterruptible FileChannels will be used for indexes
+2022-01-03 18:56:38,342 [   1617]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1637 ms
+2022-01-03 18:57:00,531 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2022-01-03 18:57:00,532 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Users/dennisanderson/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.3.3/3c2013f1573a11e93fff08e8ba758ddf4ed39717/ideaIC-2020.3.3/plugins/java/lib/jps-launcher.jar
+2022-01-03 18:57:01,299 [    768]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 650 ms
+2022-01-03 18:57:01,504 [    973]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/dennisanderson/IdeaProjects/untitled, global options path = /Users/dennisanderson/IdeaProjects/progressbar/build/idea-sandbox/config/options
+2022-01-03 18:57:01,755 [   1224]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 251 ms
+2022-01-03 18:57:01,755 [   1224]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2022-01-03 18:57:01,873 [   1342]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2022-01-03 18:57:01,879 [   1348]   INFO - tellij.util.io.FileChannelUtil - uninterruptible FileChannels will be used for indexes
+2022-01-03 18:57:03,412 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2022-01-03 18:57:03,413 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Users/dennisanderson/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.3.3/3c2013f1573a11e93fff08e8ba758ddf4ed39717/ideaIC-2020.3.3/plugins/java/lib/jps-launcher.jar
+2022-01-03 18:57:04,274 [    862]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 647 ms
+2022-01-03 18:57:04,575 [   1163]   INFO -    #com.intellij.jna.JnaLoader - JNA library (64-bit) loaded in 288 ms
+2022-01-03 18:57:04,679 [   1267]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/dennisanderson/IdeaProjects/untitled, global options path = /Users/dennisanderson/IdeaProjects/progressbar/build/idea-sandbox/config/options
+2022-01-03 18:57:05,179 [   1767]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 499 ms
+2022-01-03 18:57:05,179 [   1767]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2022-01-03 18:57:05,428 [   2016]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2022-01-03 18:57:05,448 [   2036]   INFO - tellij.util.io.FileChannelUtil - uninterruptible FileChannels will be used for indexes
+2022-01-03 18:57:05,754 [   2342]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 2379 ms
+2022-01-03 19:01:11,155 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2022-01-03 19:01:11,155 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Users/dennisanderson/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.3.3/3c2013f1573a11e93fff08e8ba758ddf4ed39717/ideaIC-2020.3.3/plugins/java/lib/jps-launcher.jar
+2022-01-03 19:01:11,511 [    356]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 285 ms
+2022-01-03 19:01:11,688 [    533]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/dennisanderson/IdeaProjects/untitled, global options path = /Users/dennisanderson/IdeaProjects/progressbar/build/idea-sandbox/config/options
+2022-01-03 19:01:12,085 [    930]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 396 ms
+2022-01-03 19:01:12,085 [    930]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2022-01-03 19:01:12,209 [   1054]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2022-01-03 19:01:12,217 [   1062]   INFO - tellij.util.io.FileChannelUtil - uninterruptible FileChannels will be used for indexes
+2022-01-03 19:01:12,960 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2022-01-03 19:01:12,960 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Users/dennisanderson/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.3.3/3c2013f1573a11e93fff08e8ba758ddf4ed39717/ideaIC-2020.3.3/plugins/java/lib/jps-launcher.jar
+2022-01-03 19:01:13,305 [    345]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 276 ms
+2022-01-03 19:01:13,454 [    494]   INFO -    #com.intellij.jna.JnaLoader - JNA library (64-bit) loaded in 143 ms
+2022-01-03 19:01:13,499 [    539]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/dennisanderson/IdeaProjects/untitled, global options path = /Users/dennisanderson/IdeaProjects/progressbar/build/idea-sandbox/config/options
+2022-01-03 19:01:13,723 [    763]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 223 ms
+2022-01-03 19:01:13,723 [    763]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2022-01-03 19:01:13,846 [    886]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2022-01-03 19:01:13,855 [    895]   INFO - tellij.util.io.FileChannelUtil - uninterruptible FileChannels will be used for indexes
+2022-01-03 19:01:13,973 [   1013]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1028 ms
+2022-01-03 19:03:42,093 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2022-01-03 19:03:42,094 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Users/dennisanderson/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.3.3/3c2013f1573a11e93fff08e8ba758ddf4ed39717/ideaIC-2020.3.3/plugins/java/lib/jps-launcher.jar
+2022-01-03 19:03:42,451 [    358]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 290 ms
+2022-01-03 19:03:42,630 [    537]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/dennisanderson/IdeaProjects/untitled, global options path = /Users/dennisanderson/IdeaProjects/progressbar/build/idea-sandbox/config/options
+2022-01-03 19:03:42,825 [    732]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 194 ms
+2022-01-03 19:03:42,825 [    732]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2022-01-03 19:03:42,921 [    828]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2022-01-03 19:03:42,927 [    834]   INFO - tellij.util.io.FileChannelUtil - uninterruptible FileChannels will be used for indexes
+2022-01-03 19:03:43,737 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2022-01-03 19:03:43,737 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Users/dennisanderson/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.3.3/3c2013f1573a11e93fff08e8ba758ddf4ed39717/ideaIC-2020.3.3/plugins/java/lib/jps-launcher.jar
+2022-01-03 19:03:44,071 [    334]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 265 ms
+2022-01-03 19:03:46,190 [   2453]   INFO -    #com.intellij.jna.JnaLoader - JNA library (64-bit) loaded in 2113 ms
+2022-01-03 19:03:46,274 [   2537]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/dennisanderson/IdeaProjects/untitled, global options path = /Users/dennisanderson/IdeaProjects/progressbar/build/idea-sandbox/config/options
+2022-01-03 19:03:46,613 [   2876]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 339 ms
+2022-01-03 19:03:46,613 [   2876]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2022-01-03 19:03:46,772 [   3035]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2022-01-03 19:03:46,780 [   3043]   INFO - tellij.util.io.FileChannelUtil - uninterruptible FileChannels will be used for indexes
+2022-01-03 19:03:47,029 [   3292]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 3308 ms
+2022-01-03 19:04:05,398 [  21661]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:true; isMake:false parallel compilation:false
+2022-01-03 19:04:05,402 [  21665]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JVM: true
+2022-01-03 19:04:05,402 [  21665]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JS: true
+2022-01-03 19:04:05,407 [  21670]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2022-01-03 19:04:05,407 [  21670]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 93de5a89
+2022-01-03 19:04:05,434 [  21697]   INFO - s.index.CompilerReferenceIndex - backward reference index deleted
+java.lang.Exception
+	at org.jetbrains.jps.backwardRefs.index.CompilerReferenceIndex.removeIndexFiles(CompilerReferenceIndex.java:185)
+	at org.jetbrains.jps.backwardRefs.index.CompilerReferenceIndex.removeIndexFiles(CompilerReferenceIndex.java:178)
+	at org.jetbrains.jps.backwardRefs.JavaBackwardReferenceIndexWriter.initialize(JavaBackwardReferenceIndexWriter.java:69)
+	at org.jetbrains.jps.incremental.java.JavaBuilder.buildStarted(JavaBuilder.java:165)
+	at org.jetbrains.jps.incremental.IncProjectBuilder.runBuild(IncProjectBuilder.java:402)
+	at org.jetbrains.jps.incremental.IncProjectBuilder.build(IncProjectBuilder.java:183)
+	at org.jetbrains.jps.cmdline.BuildRunner.runBuild(BuildRunner.java:132)
+	at org.jetbrains.jps.cmdline.BuildSession.runBuild(BuildSession.java:302)
+	at org.jetbrains.jps.cmdline.BuildSession.run(BuildSession.java:132)
+	at org.jetbrains.jps.cmdline.BuildMain$MyMessageHandler.lambda$channelRead0$0(BuildMain.java:219)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+2022-01-03 19:04:05,438 [  21701]   INFO - s.index.CompilerReferenceIndex - backward reference index version doesn't exist
+2022-01-03 19:04:05,503 [  21766]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 15 ms
+2022-01-03 19:04:06,036 [  22299]   INFO - kotlin.jps.build.KotlinBuilder - KotlinTargetsIndex created in 470 ms
+2022-01-03 19:04:06,045 [  22308]   INFO - kotlin.jps.build.KotlinBuilder - Total Kotlin global compile context initialization time: 481 ms
+2022-01-03 19:04:06,448 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2022-01-03 19:04:06,449 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Users/dennisanderson/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.3.3/3c2013f1573a11e93fff08e8ba758ddf4ed39717/ideaIC-2020.3.3/plugins/java/lib/jps-launcher.jar
+2022-01-03 19:04:06,683 [    235]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 191 ms
+2022-01-03 19:04:06,794 [    346]   INFO -    #com.intellij.jna.JnaLoader - JNA library (64-bit) loaded in 107 ms
+2022-01-03 19:04:06,831 [    383]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/dennisanderson/IdeaProjects/untitled, global options path = /Users/dennisanderson/IdeaProjects/progressbar/build/idea-sandbox/config/options
+2022-01-03 19:04:06,990 [    542]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 159 ms
+2022-01-03 19:04:06,991 [    543]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2022-01-03 19:04:07,060 [    612]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2022-01-03 19:04:07,066 [    618]   INFO - tellij.util.io.FileChannelUtil - uninterruptible FileChannels will be used for indexes
+2022-01-03 19:04:07,174 [    726]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 736 ms
+2022-01-03 19:04:19,064 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2022-01-03 19:04:19,064 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Users/dennisanderson/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.3.3/3c2013f1573a11e93fff08e8ba758ddf4ed39717/ideaIC-2020.3.3/plugins/java/lib/jps-launcher.jar
+2022-01-03 19:04:19,398 [    334]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 266 ms
+2022-01-03 19:04:19,582 [    518]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/dennisanderson/IdeaProjects/untitled, global options path = /Users/dennisanderson/IdeaProjects/progressbar/build/idea-sandbox/config/options
+2022-01-03 19:04:19,813 [    749]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 231 ms
+2022-01-03 19:04:19,813 [    749]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2022-01-03 19:04:19,928 [    864]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2022-01-03 19:04:19,936 [    872]   INFO - tellij.util.io.FileChannelUtil - uninterruptible FileChannels will be used for indexes
+2022-01-03 19:04:20,744 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2022-01-03 19:04:20,745 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Users/dennisanderson/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.3.3/3c2013f1573a11e93fff08e8ba758ddf4ed39717/ideaIC-2020.3.3/plugins/java/lib/jps-launcher.jar
+2022-01-03 19:04:21,194 [    450]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 383 ms
+2022-01-03 19:04:21,337 [    593]   INFO -    #com.intellij.jna.JnaLoader - JNA library (64-bit) loaded in 137 ms
+2022-01-03 19:04:21,383 [    639]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/dennisanderson/IdeaProjects/untitled, global options path = /Users/dennisanderson/IdeaProjects/progressbar/build/idea-sandbox/config/options
+2022-01-03 19:04:21,596 [    852]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 212 ms
+2022-01-03 19:04:21,596 [    852]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2022-01-03 19:04:21,684 [    940]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2022-01-03 19:04:21,691 [    947]   INFO - tellij.util.io.FileChannelUtil - uninterruptible FileChannels will be used for indexes
+2022-01-03 19:04:21,821 [   1077]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1092 ms
+2022-01-03 19:04:48,741 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2022-01-03 19:04:48,742 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Users/dennisanderson/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.3.3/3c2013f1573a11e93fff08e8ba758ddf4ed39717/ideaIC-2020.3.3/plugins/java/lib/jps-launcher.jar
+2022-01-03 19:04:49,094 [    353]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 276 ms
+2022-01-03 19:04:49,244 [    503]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/dennisanderson/IdeaProjects/untitled, global options path = /Users/dennisanderson/IdeaProjects/progressbar/build/idea-sandbox/config/options
+2022-01-03 19:04:49,442 [    701]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 197 ms
+2022-01-03 19:04:49,442 [    701]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2022-01-03 19:04:49,529 [    788]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2022-01-03 19:04:49,536 [    795]   INFO - tellij.util.io.FileChannelUtil - uninterruptible FileChannels will be used for indexes
+2022-01-03 19:04:50,326 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2022-01-03 19:04:50,327 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Users/dennisanderson/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.3.3/3c2013f1573a11e93fff08e8ba758ddf4ed39717/ideaIC-2020.3.3/plugins/java/lib/jps-launcher.jar
+2022-01-03 19:04:50,640 [    314]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 252 ms
+2022-01-03 19:04:50,788 [    462]   INFO -    #com.intellij.jna.JnaLoader - JNA library (64-bit) loaded in 142 ms
+2022-01-03 19:04:50,860 [    534]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/dennisanderson/IdeaProjects/untitled, global options path = /Users/dennisanderson/IdeaProjects/progressbar/build/idea-sandbox/config/options
+2022-01-03 19:04:51,115 [    789]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 255 ms
+2022-01-03 19:04:51,116 [    790]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2022-01-03 19:04:51,198 [    872]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2022-01-03 19:04:51,203 [    877]   INFO - tellij.util.io.FileChannelUtil - uninterruptible FileChannels will be used for indexes
+2022-01-03 19:04:51,317 [    991]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1005 ms
+2022-01-03 19:05:08,190 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2022-01-03 19:05:08,190 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Users/dennisanderson/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.3.3/3c2013f1573a11e93fff08e8ba758ddf4ed39717/ideaIC-2020.3.3/plugins/java/lib/jps-launcher.jar
+2022-01-03 19:05:08,541 [    351]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 281 ms
+2022-01-03 19:05:08,714 [    524]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/dennisanderson/IdeaProjects/untitled, global options path = /Users/dennisanderson/IdeaProjects/progressbar/build/idea-sandbox/config/options
+2022-01-03 19:05:08,952 [    762]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 237 ms
+2022-01-03 19:05:08,952 [    762]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2022-01-03 19:05:09,058 [    868]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2022-01-03 19:05:09,065 [    875]   INFO - tellij.util.io.FileChannelUtil - uninterruptible FileChannels will be used for indexes
+2022-01-03 19:05:09,885 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2022-01-03 19:05:09,886 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Users/dennisanderson/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.3.3/3c2013f1573a11e93fff08e8ba758ddf4ed39717/ideaIC-2020.3.3/plugins/java/lib/jps-launcher.jar
+2022-01-03 19:05:10,204 [    319]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 252 ms
+2022-01-03 19:05:10,353 [    468]   INFO -    #com.intellij.jna.JnaLoader - JNA library (64-bit) loaded in 145 ms
+2022-01-03 19:05:10,403 [    518]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/dennisanderson/IdeaProjects/untitled, global options path = /Users/dennisanderson/IdeaProjects/progressbar/build/idea-sandbox/config/options
+2022-01-03 19:05:10,607 [    722]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 204 ms
+2022-01-03 19:05:10,607 [    722]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2022-01-03 19:05:10,702 [    817]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2022-01-03 19:05:10,708 [    823]   INFO - tellij.util.io.FileChannelUtil - uninterruptible FileChannels will be used for indexes
+2022-01-03 19:05:10,826 [    941]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 957 ms

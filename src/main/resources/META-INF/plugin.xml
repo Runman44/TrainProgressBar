@@ -1,0 +1,29 @@
+<idea-plugin>
+    <id>nl.mranderson.ns-progress</id>
+    <name>Train Progress Bar</name>
+    <vendor email="askmranderson@gmail.com" url="http://www.mranderson.nl">Mr.Anderson</vendor>
+
+    <description><![CDATA[Pretty progress bars with train animation for IJ based IDEs.
+
+
+
+This is the Pokemon Trainer Progress Bar for IJ based IDEs based on the Nyan Progress Bar by Dmitry Batkovitch. It display Red and Pikachu for the basic bar and the bike animation for the indeterminate one.]]></description>
+
+    <!-- please see https://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
+         on how to target different products -->
+    <depends>com.intellij.modules.platform</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <!-- Add your extensions here -->
+    </extensions>
+
+    <actions>
+        <!-- Add your actions here -->
+    </actions>
+
+    <application-components>
+        <component>
+            <implementation-class>ApplicationComponent</implementation-class>
+        </component>
+    </application-components>
+</idea-plugin>

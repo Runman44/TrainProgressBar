@@ -4,7 +4,7 @@
     <vendor email="askmranderson@gmail.com" url="http://www.mranderson.nl">Mr.Anderson</vendor>
 
     <description><![CDATA[This is a Train Progress Bar for IJ based IDEs based on the Nyan Progress Bar by Dmitry Batkovitch. The train is based on a NS-Intercity from the Netherlands.<br/>
-                   <img src="https://github.com/Runman44/TrainProgressBar/raw/example.gif" /><br/>]]></description>
+                   <img src="https://github.com/Runman44/TrainProgressBar/raw/main/raw/example.gif" /><br/>]]></description>
 
     <depends>com.intellij.modules.platform</depends>
 

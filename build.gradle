@@ -3,8 +3,8 @@ plugins {
     id 'org.jetbrains.intellij' version '1.1.6'
 }
 
-group 'org.example'
-version '1.0-SNAPSHOT'
+group 'nl.mranderson'
+version '1.1'
 
 repositories {
     mavenCentral()
@@ -20,9 +20,7 @@ intellij {
     version =  '2020.3.3'
 }
 patchPluginXml {
-    changeNotes =  """
-      Add change notes here.<br>
-      <em>most HTML tags may be used</em>"""
+    changeNotes =  """Added GIF in the description"""
 }
 test {
     useJUnitPlatform()
